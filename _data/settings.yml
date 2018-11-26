@@ -26,17 +26,17 @@ client:
   url: http://www.JeffWheatleyHomes.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_text: Sell For 18% More
+  first_CTA_URL: https://www.jeffwheatleyhomes.com/sell-for-18-more/
   second_CTA_text: Home Search
   second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_title: "Sell For 18% More"
+    CTA_text: "We sell for up to 18 Percent more than the average real estate agent."
+    CTA_link_text: "Contact us to ask how"
+    CTA_url: https://www.jeffwheatleyhomes.com/sell-for-18-more/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
