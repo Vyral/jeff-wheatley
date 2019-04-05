@@ -25,9 +25,7 @@ youtube_code: 'https://youtu.be/KnGayTr2_DI'
 
 What’s currently happening in and around our market?&nbsp;
 
-For one, **a Rockville property was recently inundated with a 28-offer scenario**; consequently, 27 buyers walked away frustrated and left with no option but to look elsewhere. Because of that, **today we’ll explore some alternate buyer strategies for finding homes with less competition.&nbsp;**
-
-<br>The three traditional methods homebuyers put into action are:&nbsp;
+For one, **a Rockville property was recently inundated with a 28-offer scenario**; consequently, 27 buyers walked away frustrated and left with no option but to look elsewhere. Because of that, **today we’ll explore some alternate buyer strategies for finding homes with less competition.&nbsp;**<br><br>The three traditional methods homebuyers put into action are:&nbsp;
 
 1. **Discovering homes via the MLS**
 2. **Attending open houses&nbsp;**
@@ -45,15 +43,11 @@ A strategy that facilitates communication with this pool of homeowners can creat
 
 The recipe for success with this type of strategy is to spot the would-be sellers who may be “quietly” raising their hand, so to speak, or who are showing signs that they’re selling soon. Here’s how a strategy for reaching these seller types will work:&nbsp;
 
-&nbsp;
-
 1. **Look at predictive analytics &nbsp;**
 2. **Target potential sellers who have already talked to someone**
 3. **Target those that have identified themselves through digital means** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
 Here’s how to approach the sellers who aren’t flying under the radar and are already active:&nbsp;
-
-&nbsp;
 
 1. **Pinpoint a specific seller and property type on social media&nbsp;**
 2. **Write a personal, handwritten letter to the potential seller&nbsp;**
