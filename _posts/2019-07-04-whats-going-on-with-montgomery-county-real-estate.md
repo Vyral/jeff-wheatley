@@ -31,4 +31,4 @@ What does this mean for buyers and sellers? Our market remains pretty neutral, w
 
 **In May of 2019, over 50% of the homes that went on the market sold for either full price or higher.** I found that very interesting. Finally, I wanted you to know that we saw an increase in the townhouse market and a bit of a slowdown in detached condos.
 
-If you have any questions for me in the meantime about the market or how you can take advantage of the current conditions, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me about the market or how you can take advantage of the current conditions, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
