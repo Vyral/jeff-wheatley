@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/jeff-wheatley---the-real-reason-trump-wont-share-his-taxes-youtube.jpg
+  /uploads/new-jeff-wheatley---the-real-reason-trump-wont-share-his-taxes-youtube-new.jpg
 youtube_code: 'https://youtu.be/Q9tyFpgQwh4'
 ---
 
