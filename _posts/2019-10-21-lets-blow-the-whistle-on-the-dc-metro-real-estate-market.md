@@ -36,7 +36,7 @@ With a 5% interest rate like we had last year, the buyer’s mortgage payment wo
 
 So what happens if the market recedes? How long would it take for someone to make that up?
 
-With a 5% interest rate, **in order for you to have the same mortgage payment on that $750,000 house as our currently lower rate, the price of the house would have to drop down to $634,000\!**
+With a 5% interest rate, **in order for you to have the same mortgage payment on that $750,000 house at our currently lower rate, the price of the house would have to drop down to $634,000\!**
 
 In the end, if you’re planning to buy a home for the long-term and you make a smart choice, now is a great time. In future blog posts, we’ll discuss how we further ensure that with either pre-builds (which give you a really good discount in the new construction market) or builder closeouts. We’ll also talk about how we buy wedge deals—those deals in a neighborhood that performs really well but is cosmetically a little bit off.
 
