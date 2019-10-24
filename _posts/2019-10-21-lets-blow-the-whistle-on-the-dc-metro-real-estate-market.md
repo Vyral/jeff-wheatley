@@ -24,6 +24,8 @@ youtube_code: 'https://youtu.be/VEzUIwtmD-I'
 
 Today, it’s my turn to blow the whistle on the reality of the DC metro real estate market. Specifically, I’m going to address the question, “Is now a good time to buy a home?”&nbsp;
 
+Domestic economic factors and international trade tensions have caused the Fed to start buying treasuries again, just like they did in 2008. This has pushed the yield down, which has caused interest rates to drop for both treasuries and the mortgage market.
+
 What has that done to the market? If you look at today’s rate, **we’re hovering a little bit below 3.5% for a 30-year fixed note.** In 2018, they were as high as 5% on the same type of loan.
 
 So, is it a good time to buy a home? Let’s examine this question through the eyes of a buyer in the DC metro area. Most of them are using mortgages, so for the sake of example, let’s assume the buyer is purchasing a home for $750,000 with a 20% down payment.
