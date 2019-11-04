@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/jeff-wheatley---lets-blow-the-whistle-on-the-dc-metro-real-estate-market-youtube.jpg
-youtube_code: 'https://youtu.be/VEzUIwtmD-I'
+youtube_code: 'https://youtu.be/vPMx5Hy00Mk'
 ---
 
 {% include youtube.html %}
