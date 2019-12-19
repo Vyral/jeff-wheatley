@@ -12,9 +12,9 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/jeff-wheatley---happy-holidays-from-our-team-to-your-family-youtube-1.jpg
+  /uploads/jeff-wheatley---happy-holidays-from-our-team-to-your-family-youtube-2.jpg
 youtube_code: KvVdg2EII3U
 ---
 
