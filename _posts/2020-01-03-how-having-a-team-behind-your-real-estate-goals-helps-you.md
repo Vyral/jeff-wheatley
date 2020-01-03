@@ -21,7 +21,9 @@ youtube_alternate_image: >-
 youtube_code: oWA_5Xqc08I
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success.  </em></p>
 
 When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success. **Some of these people make up what’s referred to in the real estate industry as an “inside sales agent” (or ISA) team.&nbsp;**
 
