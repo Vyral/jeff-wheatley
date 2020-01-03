@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Having a Team Behind Your Real Estate Goals Helps You
-date: 2020-01-03 16:20:38
+date: 2020-01-03 16:20:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
