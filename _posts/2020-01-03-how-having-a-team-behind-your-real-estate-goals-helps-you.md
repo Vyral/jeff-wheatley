@@ -6,8 +6,8 @@ tags:
   - Home Seller Tips
   - Home Buyer Tips
 excerpt: >-
-  What steps must an inside sales team follow to craft an effective marketing
-  message? Let’s discuss this question today.
+  When you work with a team of Realtors, there are many people working behind
+  the scenes on behalf of your success.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2019/January/How+Having+a+Team+Behind+Your+Real+Estate+Goals+Helps+You.mp4
 pullquote: >-
@@ -23,7 +23,7 @@ youtube_code: oWA_5Xqc08I
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success.  </em></p>
+*When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success. *
 
 When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success. **Some of these people make up what’s referred to in the real estate industry as an “inside sales agent” (or ISA) team.&nbsp;**
 
