@@ -14,7 +14,7 @@ custom_links:
     url:
 client:
   name: Jeff Wheatley
-  title: The Wheatley Group
+  title:
   license_number:
   about_markdown: >-
     Jeff Wheatley is passionate about serving his clients transform their lives
@@ -34,7 +34,7 @@ client:
     launch of iPhone 10XS. Contrast that to the last majority of his competition
     simple list a property by simply pray it sells.
   market: DC Metro
-  brand: Jeff Wheatley Homes
+  brand: The Wheatley Group
   brokerage: Re/Max Realty Services
   address: '20 West Gude Drive #200 Rockville Md. 20850'
   phone: 240-731-7578
