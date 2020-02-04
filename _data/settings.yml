@@ -14,33 +14,33 @@ custom_links:
     url:
 client:
   name: Jeff Wheatley
-  title:
+  title: The Wheatley Group
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Jeff Wheatley is passionate about serving his clients transform their lives
-    through real estate.  His extensive background in real estate, finance, and
+    through real estate. His extensive background in real estate, finance, and
     life coaching enables him to draw from a deep well of life experience as he
     helps his clients make long term, intelligent decisions. In a shifting real
     estate market and changing landscape, his expertise and and focus on long
-    terms goals provide a rare breed of service. 
+    terms goals provide a rare breed of service.
 
 
     Described by his peers and clients as smart, insightful and determined, Jeff
     goes beyond expectations in serving his clients. Jeff has has re-engineered
     the home seller process. He modeled his process after the best marketing
-    practices in all industries.  As a specific example, Jeff’s team launches a
+    practices in all industries. As a specific example, Jeff’s team launches a
     property through a carefully curated process with similarities to Apple’s
-    launch process.  His process builds anticipation and desire similar to the
-    launch of iPhone 10XS.  Contrast that to the last majority of his
-    competition simple list a property by simply pray it sells.
+    launch process. His process builds anticipation and desire similar to the
+    launch of iPhone 10XS. Contrast that to the last majority of his competition
+    simple list a property by simply pray it sells.
   market: DC Metro
   brand: Jeff Wheatley Homes
-  brokerage: RE/MAX
+  brokerage: Re/Max Realty Services
   address: '20 West Gude Drive #200 Rockville Md. 20850'
   phone: 240-731-7578
-  phone_type:
-  phone2:
-  phone2_type:
+  phone_type: Direct
+  phone2: 301-251-1221
+  phone2_type: Office
   email: Jeff@JeffWheatleyHomes.com
   url: 'http://www.JeffWheatleyHomes.com'
 CTAs:
@@ -113,7 +113,7 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#ED001A'
+  brand_color: '#ed001a'
   theme_color: '#4c4d4f'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
