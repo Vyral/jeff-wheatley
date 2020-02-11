@@ -29,7 +29,7 @@ If you need to sell your home fast and just want a cash-out, we have an option t
 
 **Option No. 2: Full Marketing Blitz**
 
-This second option is more traditional: we’ll do a full marketing blitz that will attract the maximum number of offers and earn you the highest possible sale price for your home in its current condition. This is one of our most popular options.
+This second option is more traditional: We’ll do a full marketing blitz that will attract the maximum number of offers and earn you the highest possible sale price for your home in its current condition. This is one of our most popular options.
 
 **Option No. 3: Renovation**
 
@@ -39,7 +39,7 @@ Many sellers will get more money out of their homes if they renovate them to tod
 
 In addition to these options, we can also come in to do a seller consultation to make sure that we understand your timeframe. Many people have very specific timeframes in mind, so we structure the transaction around those needs.
 
-We’ll also help you **determine what type of liquidity event you need.** Some might need some money from outside of the property prior to closing; if you need to put money down on your next house or some other investment before closing, we can arrange that for you.
+We’ll also help you **determine what type of liquidity event you need.** Some might need money from outside of the property prior to closing; if you need to put money down on your next house or some other investment before closing, we can arrange that for you.
 
 Lastly, when you sell with us, **we’ll do an analysis to make sure that selling is in your best financial interest.** Many properties in today’s market could become huge investment opportunities down the road if you bought and held them for 10 or so years.
 
