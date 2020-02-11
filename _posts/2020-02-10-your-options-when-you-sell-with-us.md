@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Options When You Sell With Us
-date: 2020-02-10 22:27:15
+date: 2020-02-10 22:27:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-wheatley---3-home-selling-options-available-to-you-youtube.jpg
-youtube_code: JUpskhXxf8E
+youtube_code: clyNWOg8_0U
 ---
 
 {% include youtube.html %}
