@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Capital Properties - your professional DC Metro Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jeff Wheatley</managingEditor>
-    <lastBuildDate>2018-10-30 15:44:36 -0500</lastBuildDate>
+    <lastBuildDate>2020-03-03 12:36:41 -0600</lastBuildDate>
     <media:copyright>Jeff Wheatley</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,92 +25,553 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
+        <title>Your Options When You Sell With Us</title>
+        <link>http://localhost:4000/your-options-when-you-sell-with-us.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Jeff Wheatley</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2020-02-10 16:27:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Your+Options+When+You+Sell+With+Us.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+When it comes to selling a home, what options do you have? After all, not all sellers list their properties for the same reasons; it follows that different sellers should have different paths to success tailored around their needs. Today I’ll share just three of the options available to you when you sell your home with the Wheatley Group:
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Option No. 1: Quick Cash-Out
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+If you need to sell your home fast and just want a cash-out, we have an option that will allow for a quick sale with no commission fees or closing costs. We can round out the transaction in just seven to nine days.
 
-“This is an example of a pull quote”
+Option No. 2: Full Marketing Blitz
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+This second option is more traditional: We’ll do a full marketing blitz that will attract the maximum number of offers and earn you the highest possible sale price for your home in its current condition. This is one of our most popular options.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Option No. 3: Renovation
+
+Many sellers will get more money out of their homes if they renovate them to today’s standards. That includes updating things like paint, carpet, and bathroom finishes. Once that’s finished, we’ll then stage the home and do a full market blitz to sell at the highest price possible.
+
+“Any of these options can work for you, but which one you should choose depends on your needs.”
+
+In addition to these options, we can also come in to do a seller consultation to make sure that we understand your timeframe. Many people have very specific timeframes in mind, so we structure the transaction around those needs.
+
+We’ll also help you determine what type of liquidity event you need. Some might need money from outside of the property prior to closing; if you need to put money down on your next house or some other investment before closing, we can arrange that for you.
+
+Lastly, when you sell with us, we’ll do an analysis to make sure that selling is in your best financial interest. Many properties in today’s market could become huge investment opportunities down the road if you bought and held them for 10 or so years.
+
+Any of these options can work for you, but which one you should choose depends on your needs. If you have any questions or would like our help in navigating your next home sale, don’t hesitate to reach out to us. We would love to discuss the best path forward given your circumstances.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Your+Options+When+You+Sell+With+Us.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Your+Options+When+You+Sell+With+Us.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Some agents won’t give you your full range of options when it comes to selling your home. Here are just three options you’ll get when you sell with us.</itunes:subtitle>
         <itunes:author>Jeff Wheatley</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Some agents won’t give you your full range of options when it comes to selling your home. Here are just three options you’ll get when you sell with us.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>How Having a Team Behind Your Real Estate Goals Helps You</title>
+        <link>http://localhost:4000/how-having-a-team-behind-your-real-estate-goals-helps-you.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2020-01-03 10:20:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2019/January/How+Having+a+Team+Behind+Your+Real+Estate+Goals+Helps+You.mp4</guid>
+        <description>
+
+When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success.
+
+When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success. Some of these people make up what’s referred to in the real estate industry as an “inside sales agent” (or ISA) team. 
+
+This team takes care of backend support tasks so that your agent can focus on their job: serving you. This team will also have a major role to play in developing and distributing marketing materials, and one of the methods the ISA team within our firm crafts the most effective marketing messages possible is by using the pyramid structure illustrated in today’s video. 
+
+At the top of the pyramid is the word “who.” This prompt is meant to guide the ISA team to think about what their ideal audience should be. 
+
+“When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success.”
+
+In the middle of the pyramid, there’s the word “what.” Once the team has determined who they’re going to sending their message to, they will nail down what the message will be. 
+
+Finally, the bottom of the pyramid consists of the words “how” and “medium”. These words represent the question “How will the inside sales agents deliver this message, and what medium will they use?” The way the ISA team delivers a marketing message, as well as the various materials and methods they use to send it out, will all have an impact on how it’s received. 
+
+The more technical aspects of what an ISA team does within a real estate firm aren’t something you, as a buyer or seller, need to worry about, but the important thing is that you understand how hard our entire team works on behalf of your success.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2019/January/How+Having+a+Team+Behind+Your+Real+Estate+Goals+Helps+You.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2019/January/How+Having+a+Team+Behind+Your+Real+Estate+Goals+Helps+You.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>When you work with a team of Realtors, there are many people working behind the scenes on behalf of your success.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Holidays!</title>
+        <link>http://localhost:4000/happy-holidays.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-12-18 13:33:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2019/December/Happy+Holidays!+(3).mp4</guid>
+        <description>
+
+With the holiday season now upon us, our team would like to extend our warm wishes. Happy holidays!
+
+The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends. We just wanted to take a moment to thank you for your continued support. We love helping people make their real estate dreams come true, so thank you for working with us.
+
+This may be a busy time of year, but we are always here to help you and answer any questions you may have. We look forward to hearing from you soon. In case we don’t hear from you, though, we hope you have a happy New Year! 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2019/December/Happy+Holidays!+(3).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2019/December/Happy+Holidays!+(3).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>With the holiday season now upon us, our team would like to extend our warm wishes. Happy holidays!</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>With the holiday season now upon us, our team would like to extend our warm wishes. Happy holidays!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Let’s Blow the Whistle on the DC Metro Real Estate Market</title>
+        <link>http://localhost:4000/lets-blow-the-whistle-on-the-dc-metro-real-estate-market.html</link>
+        
+          <category>Real Estate</category>
         
           <category>Market Update</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-10-20 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today, it’s my turn to blow the whistle on the reality of the DC metro real estate market. Specifically, I’m going to address the question, “Is now a good time to buy a home?” 
+
+Domestic economic factors and international trade tensions have caused the Fed to start buying treasuries again, just like they did in 2008. This has pushed the yield down, which has caused interest rates to drop for both treasuries and the mortgage market.
+
+What has that done to the market? If you look at today’s rate, we’re hovering a little bit below 3.5% for a 30-year fixed note. In 2018, they were as high as 5% on the same type of loan.
+
+So, is it a good time to buy a home? Let’s examine this question through the eyes of a buyer in the DC metro area. Most of them are using mortgages, so for the sake of example, let’s assume the buyer is purchasing a home for $750,000 with a 20% down payment.
+
+With a 5% interest rate like we had last year, the buyer’s mortgage payment would have been $3,932, including principal, interest, taxes, and insurance. With today’s rate, the mortgage payment would have been somewhere around $3,411, which is about $500 in savings.
+
+“If you’re planning to buy a home for the long-term and you make a smart choice, now is a great time.”
+
+So what happens if the market recedes? How long would it take for someone to make that up?
+
+With a 5% interest rate, in order for you to have the same mortgage payment on that $750,000 house at our currently lower rate, the price of the house would have to drop down to $634,000!
+
+In the end, if you’re planning to buy a home for the long-term and you make a smart choice, now is a great time. In future blog posts, we’ll discuss how we further ensure that with either pre-builds (which give you a really good discount in the new construction market) or builder closeouts. We’ll also talk about how we buy wedge deals—those deals in a neighborhood that performs really well but is cosmetically a little bit off.
+
+In the meantime, if you have any questions about buying a home or real estate in general, don’t hesitate to reach out to me. I’d be glad to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It’s my turn to blow the whistle on the reality of the DC metro real estate market: Is now a good time to buy a home?</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>It’s my turn to blow the whistle on the reality of the DC metro real estate market: Is now a good time to buy a home?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Going on With Montgomery County Real Estate?</title>
+        <link>http://localhost:4000/whats-going-on-with-montgomery-county-real-estate.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-07-03 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today I just wanted to take a moment to update you on what’s going on in the Montgomery County market. Here’s what you need to know.
+
+Our median sale price in May was at $468,000, which is the second-highest number we’ve ever seen. This number was found by determining that we had 1,325 closed sales. This is 2.8% higher than the typical May numbers.
+
+“Our market remains neutral with a slight edge to sellers.”
+
+The next thing to take a look at is pending sales. We have 1,575 right now, which is 3.6% above last year and 1.7% above our five-year average for May. A lot of times when we see this level of pendings and closed sales, we’re going to see a significant increase in active properties. Those are up 1.6% to 2,432. As you can see, we have a lot of activity in the Montgomery County market.
+
+What does this mean for buyers and sellers? Our market remains pretty neutral, with a slight edge to sellers. Our inventory is on the rise and up to 2.8 months. Typically, when we get to three months, things start to shift toward buyers.
+
+In May of 2019, over 50% of the homes that went on the market sold for either full price or higher. I found that very interesting. Finally, I wanted you to know that we saw an increase in the townhouse market and a bit of a slowdown in detached condos.
+
+If you have any questions for me about the market or how you can take advantage of the current conditions, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The latest numbers are in for our real estate market and I’m excited to share them with you today.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>The latest numbers are in for our real estate market and I’m excited to share them with you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Real Reason Trump Won’t Share His Taxes</title>
+        <link>http://localhost:4000/the-real-reason-trump-wont-share-his-taxes.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-06-18 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+What’s the real reason President Trump won’t share his taxes? It’s because, as a real estate developer, he should be paying very little in terms of his tax burden.
+
+How is this possible? There are several ways you can legally avoid paying capital gains taxes for real estate investments. For your convenience, I’ve provided timestamps of the video above where I discuss each of these strategies:
+
+1:21—The 1031 exchange2:15—The harvest3:27—Depreciation4:40—Partnerships5:51—IRS provision6:56—Stepped-up basis 
+
+Keep in mind, I’m not a CPA, so if you have any questions about any of these strategies, be sure to get in touch with a certified tax professional. 
+
+If you have any questions about any other real estate topics, don’t hesitate to reach out to me. I’d love to help you. 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are several strategies you can use to legally avoid paying capital gains taxes on real estate investments.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>There are several strategies you can use to legally avoid paying capital gains taxes on real estate investments.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Point-By-Point Guide to Winning a Multiple-Offer Situation</title>
+        <link>http://localhost:4000/a-point-by-point-guide-to-winning-a-multiple-offer-situation.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-06-08 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today I’d like to talk about multiple offers and the formula that will help you, the buyer, win in these kinds of scenarios. 
+
+No matter if you’re in a multiple-offer situation or not, it’s important to develop an understanding of the psychology of the seller. Once this is established, you’ll want to go straight to the listing agent and pick their brain for more information on the needs of the seller they’re representing—the ‘seller’s needs’ analysis, as we like to call it. You can then determine how their needs parallel your own and craft an offer around that, which is sure to produce a win-win deal.   
+
+After gaining insight into the seller’s needs, write a clean offer by following three steps: 
+
+
+  Write a letter or shoot a video that pulls at the seller’s heartstrings. Doing this allows you to give a heartfelt explanation as to why owning the home would mean the world to you and your family. 
+  Put together a clean summary page. Too often, the summary page of an offer we receive is crowded and the terms are buried deep in the document. Draft a well-organized, straightforward summary page, so the seller knows exactly what your terms are.
+  Make sure the offer is complete. Frequently, small items or terms are absent from the offer, which only does a disservice to its overall presentation. Cover all the bases in your offer.
+
+
+“Determine how the seller’s needs parallel your own and craft an offer around that to produce a win-win deal.”
+
+Next, you should work with an agent from an “icon” team. That team should be known by the larger real estate community for its sterling reputation and serving the community as well as having good relationships with other Realtors. Your agent and their team should have “icon” status in four areas: 
+
+
+  Credibility 
+  The lender 
+  The appraiser 
+  The title agent
+
+
+Fourth, try to combine contingencies when writing your offer. Wherever possible, condense two, three, or even four contingencies into one. This too makes for a cleaner, more organized presentation. 
+
+Also, get creative with your earnest money deposit. There are a few different actions you can take such as raising your deposit as high as or above market value or putting forth multiple deposits—a smaller amount at the outset and, within 10 days, a larger amount.    
+
+Finally, try to line up the closing date with the funding date, so it works for all parties. For example, everything will run much smoother if your lender can fast-track the closing process and get the deal done in, say, 10 to 12 days, as opposed to the market’s standard 30 days. A seller is more apt to accept an offer of this nature than one that will sit out there for 30 or 40 days before you have the available funds.              
+
+If you have any questions about today’s topic or anything else real estate-related, please reach out to me. I’d be happy to help! 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’d like to talk about multiple offers and the formula that will help you, the buyer, win in these kinds of scenarios...</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>Today I’d like to talk about multiple offers and the formula that will help you, the buyer, win in these kinds of scenarios...</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Alternate Approaches to Getting Into the Right Home</title>
+        <link>http://localhost:4000/alternate-approaches-to-getting-into-the-right-home.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-04-05 14:09:47 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+What’s currently happening in and around our market? 
+
+For one, a Rockville property was recently inundated with a 28-offer scenario; consequently, 27 buyers walked away frustrated and left with no option but to look elsewhere. Because of that, today we’ll explore some alternate buyer strategies for finding homes with less competition. The three traditional methods homebuyers put into action are: 
+
+
+  Discovering homes via the MLS
+  Attending open houses 
+  Using Zillow or other online tools 
+
+
+While these are the most prevalently used strategies, there are other avenues if you’re looking for homes that haven’t hit the market and that, as such, fewer buyers are vying for. For every home that sells in Montgomery County, we can expect six more to come onto the market over the next 90 days or thereabouts. 
+
+“A strategy that facilitates communication with this pool of homeowners can create a better situation for both you, the buyer, and them, the soon-to-be seller.”
+
+Why does this matter? 
+
+Well, this is the time where the owners of those six homes are conversing with their families about all the particulars of selling their home. Although they may have yet to decide on things like how they should stage their property or whether they’re staying in the local marketplace or not, the process is beginning to take shape. 
+
+A strategy that facilitates communication with this pool of homeowners can create a better situation for both you, the buyer, and them, the soon-to-be seller. This way, the homeowner won’t have to expose their home to the market, where they’ll have a bidding war thrust upon them.   
+
+The recipe for success with this type of strategy is to spot the would-be sellers who may be “quietly” raising their hand, so to speak, or who are showing signs that they’re selling soon. Here’s how a strategy for reaching these seller types will work: 
+
+
+  Look at predictive analytics  
+  Target potential sellers who have already talked to someone
+  Target those that have identified themselves through digital means           
+
+
+Here’s how to approach the sellers who aren’t flying under the radar and are already active: 
+
+
+  Pinpoint a specific seller and property type on social media 
+  Write a personal, handwritten letter to the potential seller 
+  Doorknock in a particular area 
+
+
+If you have any questions about these strategies or the tactics it’s comprised of, feel free to shoot me an email at Jeff@JeffWheatley.com or give me a call at 240-731-7578. I’d love to hear from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’ll explore some alternate buyer strategies for finding homes with less competition.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>Today we’ll explore some alternate buyer strategies for finding homes with less competition.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Examples of Great Bathroom Upgrades</title>
+        <link>http://localhost:4000/4-examples-of-great-bathroom-upgrades.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-02-26 11:03:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Recently, I visited one of our client’s properties to see what kind of updates it might need before listing. One of the home’s bathrooms stood out right away—it was somewhat small and very dated. 
+
+With this in mind, our team decided to make a couple of recommendations with the goal of helping our seller earn the highest return for the lowest financial investment. The first recommendation was for them to reglaze the tub. For just $350, an old, yellowing bathtub can be made to look like new again.
+
+“When we recommend upgrades to clients, our goal is to help them earn the highest return for the lowest investment.”
+
+Next, we recommended that the client remove the current vanity. There was already a linen closet, so this additional feature was taking up a lot of unnecessary space in the room. Once removed, the seller replaced it with a nice pedestal sink. 
+
+Third, we suggested the seller remove the old wallpaper and replace it with a fresh coat of paint. When coupled with our final recommendation, switching out the flooring with luxury vinyl tile, this made the room really pop. 
+
+The updates you make within your own home before selling will depend largely on your specific property. Our team would be happy to make recommendations, so if you have any other questions or would like more information, feel free to reach out. We look forward to hearing from you soon. 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’d like to explain how simple bathroom upgrades can make a big difference.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>Today we’d like to explain how simple bathroom upgrades can make a big difference.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Home Sellers: 4 Tips for Effectively Pricing Your Home</title>
+        <link>http://localhost:4000/home-sellers-4-tips-for-effectively-pricing-your-home.html</link>
         
           <category>Real Estate</category>
         
           <category>Home Seller Tips</category>
         
         <author>Jeff Wheatley</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2019-02-08 15:38:36 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Sellers: When it comes to pricing your home effectively in this market, the trick is to optimize list price. To perfect your list price, there are four major components to consider:
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+1. The odds to sell. We’ll look at your neighborhood’s sales history over a given period of time to see how many homes were on the market and compare that figure to how many homes actually sold. For example, if there were 10 homes on the market in the time period and nine of them sold, that indicates a really strong seller’s market, and you’ll likely have a good chance of selling your home.2. The seasonality of the market. We’ll look at what time of year you’re most likely going to have a successful sale in your neighborhood per what type of home you have. Here’s a good rule of thumb: If you have a larger home—for example, one with 3,500 square feet and five bedrooms— it will be very seasonal. You’ll want to launch that listing around March or April. On the other hand, a smaller condo (e.g., 2-bedroom, 2-bathroom) isn’t very seasonal at all, meaning that it wouldn’t make much difference if you sold it in November or in April.
 
+“Knowing ahead of time whether it will take 20 days or 90 days to sell will allow you to make good decisions regarding which offers to accept.”3. The time to sell in your neighborhood. Going into the home selling process, it’s very good to know how long it should take to sell in your area. Knowing ahead of time whether it will take 20 days or 90 days to sell will allow you to make good decisions regarding which offers to accept.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+4. Comparable sales in your area. Looking at the homes in your area that have sold and are similar to yours in terms of size and condition should give you a good idea of what yours should sell for. When we’re in a strong seller’s market, generally, those past sales of homes similar to yours creates a pricing floor, meaning that yours should sell for more than they did. However, in a strong buyer’s market, the buyers are in control, and those comparable sales could form a price ceiling; you should expect to sell a little below that. In that case, you’ll need to be a little more aggressive to ensure that you get great offers for your home. 
 
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about home pricing or about residential real estate in general, please don’t hesitate to reach out to me. I’d be happy to address any topic you need.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Today I want to discuss how to properly price your for-sale home in this dynamic market.</itunes:subtitle>
         <itunes:author>Jeff Wheatley</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Today I want to discuss how to properly price your for-sale home in this dynamic market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Unique Advantages of Buying a Home in the Winter</title>
+        <link>http://localhost:4000/4-unique-advantages-of-buying-a-home-in-the-winter.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-01-30 09:11:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Despite what you may have heard about buying real estate in the later months of the year, purchasing a home this winter is actually a great idea. Today we’ll be sharing four reasons why this is the case:
+
+1. Prices are set to rise. There has been a 5.6% increase in average home prices over the last 12 months, and this trend is expected to continue through the new year. In other words, now is the time to make a move if you hope to secure a good deal. 2. Mortgage rates are still going up. In the next year, experts predict that rates will rise by as much as 1%. If you wait to buy until after this point, you could wind up paying up to 7% more for your monthly mortgage payment. 
+
+3. You’re paying for a mortgage whether it’s yours or someone else’s. When you rent a property, you’re essentially paying your landlord’s mortgage. So why not make the switch to homeownership and start paying toward your own? Homeownership has been proven to be more affordable than renting and carries a number of additional advantages, as well.
+
+“Sellers will view the fact that you’re on the market during the “off season” as a sign that you’re serious, and will therefore treat you as such.”
+
+4. There’s less competition to deal with during the winter months. While multiple-offer situations are common during the spring and summer, fewer people enter the market during the later months of the year. This works out well for those who do choose to embark on a winter home search, though, as it means they can proceed without the added pressure they would experience at other times of the year. 
+
+Not only that, but sellers will view the fact that you’re on the market during the “off season” as a sign that you’re serious, and will therefore treat you as such. By that same token, the sellers who remain active in our market right now are very committed, themselves. You can be sure that any seller you interact with this winter is on the market with good reason. 
+
+All in all, it’s a great time to be on the market, and our team would love to help you navigate your real estate goals if you choose to pursue them now or at any point in the future. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Buying a home in the winter season can be a great idea, and we’d like to share four reasons why this is the case.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>Buying a home in the winter season can be a great idea, and we’d like to share four reasons why this is the case.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What the Government Shutdown Means for Our Market</title>
+        <link>http://localhost:4000/what-the-government-shutdown-means-for-our-market.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2019-01-16 12:35:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+In light of the partial government shutdown, many people have been approaching me with questions about the impact this has had on our market. 
+
+To answer one of the most common questions I hear on this subject: Yes, the FHA program is still (basically) fully functional, with the exception of loans for multi-unit properties. The portion of the program responsible for multi-unit properties is currently inactive and will remain so until the federal government is up and running. 
+
+Moving on, what about USDA loans? For those who may not know, the USDA loan program provides zero-down financing for buyers purchasing property in qualifying rural areas. Unfortunately, underwriting on these loans has been put on hold. Anyone seeking this type of loan product, including those in the middle of a transaction, will need to wait until the shutdown is over before they’re able to proceed. 
+
+“Anyone seeking to use a USDA loan, including those in the middle of a transaction, will need to wait until the shutdown is over before they’re able to proceed.”
+
+Self-employed borrowers are another type of buyer being affected by this shutdown. You see, most lenders today require IRS verification transcripts (Form 4506-T) to be completed before self-employed borrowers can receive financing. And given that these forms are not being processed during the shutdown, self-employed borrowers should expect delays. 
+
+The final point I’d like to share today is the shutdown’s impact on properties that require flood insurance. While FEMA was not issuing flood insurance earlier in the shutdown, this service has now been resumed. Even so, buyers purchasing a property of this type should still expect slight delays. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’d like to share a few ways in which the current government shutdown has impacted our market.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>Today I’d like to share a few ways in which the current government shutdown has impacted our market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Rising Interest Rates Impact You</title>
+        <link>http://localhost:4000/how-rising-interest-rates-impact-you.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2018-12-20 11:31:39 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+One of the most common questions I’m getting right now is, “Where are 30-year interest rates at?”
+
+In the last year, the average 30-year fixed rate has gone from below 4% (specifically, 3.96%) to above 5%. This is a considerable rise, and it’s caused home prices to rise and the market to slow down overall. What does this mean for buyers and sellers?
+
+“In the last year, the average 30-year fixed rate gone from below 4% (specifically, 3.96%) to above 5%.”
+
+If you’re a buyer, now’s a great time to make an offer on a home. Sellers are getting a little bit nervous because they know that even if they haven’t raised their home’s price, it still costs buyers a little bit more to buy. 
+
+If you’re a seller, you need to make sure your house looks pristine for the market. Also, keep in mind that because buyers have to pay a little bit more for houses, you have to be a little bit more aggressive in pricing your home. 
+
+If you have any more questions about our market or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d be happy to help you. 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Interest rates are rising, which has caused prices to rise and the market to slow down. Here’s what this means for buyers and sellers.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>Interest rates are rising, which has caused prices to rise and the market to slow down. Here’s what this means for buyers and sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Do You Need to Ask During Your Home Search?</title>
+        <link>http://localhost:4000/what-do-you-need-to-ask-during-your-home-search.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Jeff Wheatley</author>
+        <pubDate>2018-12-12 12:52:29 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+When you’re on the hunt for the perfect home, there are four important questions you should keep in mind: 
+
+1. How’s the neighborhood? However much you love a home, don’t proceed with purchasing it before you take a hard look at the surrounding area. When you find a home, think about how close you’d be to work and other important places, like grocery stores and schools, if you were to move there. In addition to thinking about your commute, you should also consider how overall trends in the area might impact your ability to sell down the line. 2. How are the schools? Regardless of whether you have children or not, the quality of area schools should be a major factor in your decision. If you do have kids, you will obviously want to know that they’ll be receiving a quality education. Even if you don’t have children, you should realize that the quality of local schools will still play a significant role in your property’s resale value.
+
+“Regardless of whether you have children or not, the quality of area schools should be a major factor in your decision.”
+
+3. What are the average utility costs? A number of factors, such as age, condition, and the preference of its current owners, can impact a home’s average utility costs. Before you settle on a property, therefore, you should understand what it will cost you to live there. Sellers in Montgomery County are required to disclose this information.  4. How old are the major home systems, appliances, and features? The age of a home’s roof, HVAC system, hot water heater, and other such big-ticket items will give you a better idea of whether these things will need to be replaced any time soon. Ideally, these things should be decently new. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon. 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are four questions you should consider during your home search, each of which will be greatly helpful in deciding which property to choose.</itunes:subtitle>
+        <itunes:author>Jeff Wheatley</itunes:author>
+        <itunes:summary>There are four questions you should consider during your home search, each of which will be greatly helpful in deciding which property to choose.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

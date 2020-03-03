@@ -1,16 +1,49 @@
 .cta
-	background: $button-background
-	color: $button-text
-	// padding: 1.3rem 2rem
+	background: $accent
+	color: #fff
+	padding: 1.3rem 2rem
+	margin-top: 12px
 	text-transform: capitalize
 	font-size: 2rem
 	font-weight: 300
+	border: 2px solid $accent
+	@include transition(0.3s)
 	&:hover
-		background: #eeeeee
-		color: $brand-dark
+		background: $brand
+		color: #fff
+		// box-shadow: 4px 4px 0 $brand-light
+		border: 2px solid $brand
+		// @include transform(scale(1.05))
+		// @include transform(translateY(-0.2rem))
 	&:active
+		// box-shadow: 0 0 0 $brand-light
+		// @include transform(translateY(0rem))
 		text-decoration: none
 		color: $brand
+	&:focus
+		text-decoration: none
+		color: $brand
+
+.cta2
+	background: $brand
+	color: #fff
+	padding: 1.3rem 2rem
+	margin-top: 12px
+	text-transform: capitalize
+	font-size: 2rem
+	font-weight: 300
+	border: 2px solid $brand
+	// @include transition(0.3s)
+	&:hover
+		background: $brand
+		color: #fff
+		// box-shadow: 4px 4px 0 $brand-light
+		border: 2px solid $accent
+		// @include transform(scale(1.05))
+		// @include transform(translateY(-0.2rem))
+	&:active
+		box-shadow: 0 0 0 $brand
+		// @include transform(translateY(0rem))
 	&:focus
 		text-decoration: none
 		color: $brand
@@ -30,9 +63,9 @@
 	padding: 1rem 1.5rem
 	// border-radius: 4px
 	&:hover
-		background-color: #fff
-		border: 2px solid $brand
-		color: $brand
+		background-color: $accent
+		border: 2px solid $accent
+		color: #fff
 
 @media(max-width: 750)
 	#myBtn
