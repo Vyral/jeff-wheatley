@@ -44,16 +44,8 @@ client:
   email: Jeff@JeffWheatleyHomes.com
   url: 'http://www.JeffWheatleyHomes.com'
 CTAs:
-  first_CTA_text: Sell For 18% More
-  first_CTA_URL: 'https://www.jeffwheatleyhomes.com/sell-for-18-more/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.jeffwheatleyhomes.com/listings-search/#/2033763787'
-sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: Sell For 18% More
-    CTA_text: We sell for up to 18 Percent more than the average real estate agent.
-    CTA_link_text: Contact us to ask how
-    CTA_url: 'https://www.jeffwheatleyhomes.com/sell-for-18-more/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a DC Metro Home?
