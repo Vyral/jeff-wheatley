@@ -1241,9 +1241,9 @@ html[xmlns] .flexslider .slides {
   .ctalink a {
     text-align: center; }
   .ctalink:hover {
-    background: #003CE5;
+    background: #01259a;
     color: #fff;
-    border: 1px solid #003CE5; }
+    border: 1px solid #01259a; }
   .ctalink:active {
     box-shadow: 0 0 0 #ed001a;
     -webkit-transform: translateY(0rem);
@@ -1339,18 +1339,18 @@ html[xmlns] .flexslider .slides {
   margin-right: 10px; }
 
 .navbar-left > li > a {
-  background: #ed001a;
+  background: #01259a;
   color: #fff;
   padding: 1.3rem 2rem;
   margin-top: 12px;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300;
-  border: 2px solid #ed001a; }
+  border: 2px solid #01259a; }
   .navbar-left > li > a:hover {
-    background: #003CE5;
+    background: #ed001a;
     color: #fff;
-    border: 2px solid #003CE5; }
+    border: 2px solid #ed001a; }
   .navbar-left > li > a:active {
     box-shadow: 0 0 0 #ed001a; }
   .navbar-left > li > a:focus {
@@ -1882,9 +1882,9 @@ table tr, table td {
   font-size: 16px;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: #003CE5;
+    background: #01259a;
     color: #fff;
-    border: 1px solid #003CE5; }
+    border: 1px solid #01259a; }
   .readlink > a:active {
     box-shadow: 0 0 0 #ed001a;
     -webkit-transform: translateY(0rem);
@@ -2107,9 +2107,9 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #003CE5;
+      fill: #01259a;
       background: transparent;
-      color: #003CE5;
+      color: #01259a;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
@@ -2262,9 +2262,9 @@ table tr, table td {
     border: 1px solid #ed001a;
     transition: 0.3s; }
     .search-box .search-submit:hover {
-      background: #003CE5;
+      background: #01259a;
       color: #fff;
-      border: 1px solid #003CE5; }
+      border: 1px solid #01259a; }
     .search-box .search-submit:active {
       box-shadow: 0 0 0 #ed001a;
       -webkit-transform: translateY(0rem);
@@ -2540,14 +2540,14 @@ form select {
   margin-top: 20px; }
 
 .cta {
-  background: #003CE5;
+  background: #01259a;
   color: #fff;
   padding: 1.3rem 2rem;
   margin-top: 12px;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300;
-  border: 2px solid #003CE5;
+  border: 2px solid #01259a;
   transition: 0.3s; }
   .cta:hover {
     background: #ed001a;
@@ -2572,7 +2572,7 @@ form select {
   .cta2:hover {
     background: #ed001a;
     color: #fff;
-    border: 2px solid #003CE5; }
+    border: 2px solid #01259a; }
   .cta2:active {
     box-shadow: 0 0 0 #ed001a; }
   .cta2:focus {
@@ -2593,8 +2593,8 @@ form select {
   cursor: pointer;
   padding: 1rem 1.5rem; }
   #myBtn:hover {
-    background-color: #003CE5;
-    border: 2px solid #003CE5;
+    background-color: #01259a;
+    border: 2px solid #01259a;
     color: #fff; }
 
 @media(max-width: 750) {
@@ -2607,7 +2607,7 @@ form select {
   .footer .socials svg {
     fill: #fff; }
     .footer .socials svg:hover {
-      fill: #003CE5; }
+      fill: #01259a; }
   .footer a {
     color: #fff; }
 
