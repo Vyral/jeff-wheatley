@@ -1478,7 +1478,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 10rem;
+  height: 400px; }
 
 #hero {
   background-position: center;
@@ -1490,6 +1491,9 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 50rem;
+  bottom: 20px;
+  right: 20px;
+  float: right;
   -webkit-filter: drop-shadow(0px 2px 7px #ffffff);
   filter: drop-shadow(0px 2px 7px #ffffff); }
 
