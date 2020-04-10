@@ -17,7 +17,9 @@ youtube_code: qTv1rPkjAWw
 
 {% include youtube.html %}
 
-Although the coronavirus pandemic has impacted nearly every aspect of our daily lives, I’m going to share a quick update on how the real estate market hasn’t been affected as much as you might think.
+<center><em>Despite the coronavirus pandemic, our local market is still moving quite fast.</em></center>
+
+<br>Although the coronavirus pandemic has impacted nearly every aspect of our daily lives, I’m going to share a quick update on how the real estate market hasn’t been affected as much as you might think.
 
 In short, things are moving quickly. Homes are selling in an average of just eight days right now, and 906 properties have gone into “pending” in the last two weeks. While that number is down from where it was in 2019, it shows that serious buyers and sellers continue to get exactly what they want. Homes listed in areas like Silver Spring are receiving a lot of showings right away, and some have even received multiple offers.
 
