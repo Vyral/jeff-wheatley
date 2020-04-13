@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wheatly-youtube.jpg
-youtube_code: qTv1rPkjAWw
+youtube_code: UwuN6UqI9Uc
 ---
 
 {% include youtube.html %}
