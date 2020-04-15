@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/wheatly-youtube.jpg
+youtube_alternate_image: /uploads/4-15-wheatly-youtube.jpg
 youtube_code: UwuN6UqI9Uc
 ---
 
