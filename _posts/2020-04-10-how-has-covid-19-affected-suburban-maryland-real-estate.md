@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Despite the coronavirus pandemic, our local market is still moving quite fast.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/A+Coronavirus+Update+for+Suburban+Maryland.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
