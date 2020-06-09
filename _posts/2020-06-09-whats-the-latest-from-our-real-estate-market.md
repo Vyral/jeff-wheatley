@@ -24,3 +24,5 @@ youtube_code: __AIr2P-kig
 We saw 619 properties penned in the D.C. metro area, which represents 103% of where we were last year at this time (600); **things are looking very strong given the circumstances**. How does it compare with the market we were experiencing two months ago when we entered this COVID-19 crisis in earnest? In the first week of April 2020, pendings were down 48% year over year.
 
 The other important factor I find enlightening is our market’s absorption rate—it tells us the overall health of the market and who’s in control.
+
+&nbsp;
