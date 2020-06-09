@@ -5,7 +5,7 @@ date: 2020-06-09 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Sellers are absolutely in control in our D.C. real estate market
+excerpt: Sellers are absolutely in control in our D.C. real estate market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
