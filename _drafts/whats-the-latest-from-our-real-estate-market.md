@@ -17,7 +17,9 @@ youtube_code: __AIr2P-kig
 
 {% include youtube.html %}
 
-I’ve been getting a lot of questions about what’s going on here in the D.C. real estate market, so today I’m offering a deeper look into last week’s trends.
+<center><em>Sellers are absolutely in control in our D.C. real estate market.</em></center>
+
+<br>I’ve been getting a lot of questions about what’s going on here in the D.C. real estate market, so today I’m offering a deeper look into last week’s trends.
 
 We saw 619 properties penned in the D.C. metro area, which represents 103% of where we were last year at this time (600); **things are looking very strong given the circumstances**. How does it compare with the market we were experiencing two months ago when we entered this COVID-19 crisis in earnest? In the first week of April 2020, pendings were down 48% year over year.
 
