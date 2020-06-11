@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Sellers are absolutely in control in our D.C. real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Whats+the+Latest+From+Our+Real+Estate+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
