@@ -17,7 +17,9 @@ youtube_code: MFNez9Xtgks
 
 {% include youtube.html %}
 
-I recently received some interesting questions about getting a return on investments for projects in your home.
+<center><em>I’m answering two questions about solar panels and hardscaping projects.</em></center>
+
+<br>I recently received some interesting questions about getting a return on investments for projects in your home.
 
 **Should I install solar panels?**
 
