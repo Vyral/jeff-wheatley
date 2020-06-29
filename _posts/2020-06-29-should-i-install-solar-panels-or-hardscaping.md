@@ -30,5 +30,3 @@ Solar panels are popular right now, but don’t expect them to increase your hom
 Extensive hardscaping only earns you about 30¢ for every dollar you spend, so only pursue it for personal enjoyment, not for return on investment. However, small landscaping projects such as fresh mulch and flowers give you more than a 100% return.
 
 If you have any questions about these home projects or anything concerning real estate, please give me a call or email me. I would love to help you.
-
-&nbsp;
