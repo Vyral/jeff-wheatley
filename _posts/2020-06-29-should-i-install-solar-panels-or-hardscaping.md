@@ -8,8 +8,7 @@ tags:
 excerpt: I’m answering two questions about solar panels and hardscaping projects.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Should+I+Install+Solar+Panels+or+Hardscaping_.mp4
-pullquote: >-
-  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/Is+Real+Estate+the+Right+Career+for+You_.mp4
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
