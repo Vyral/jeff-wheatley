@@ -32,5 +32,3 @@ Next, set down your objectives. When you’re buying a property in an IRA, you c
 A follow-up question I’ve heard is, “Should I go through a traditional or Roth IRA?” Both can be great vehicles, but which is best for you depends on your individual needs and long-term objectives.
 
 If you’d like to discuss this topic any further, give us a call directly. Hope to hear from you soon\!
-
-&nbsp;
