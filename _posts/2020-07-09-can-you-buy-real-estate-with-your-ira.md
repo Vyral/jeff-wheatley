@@ -19,9 +19,9 @@ youtube_code: pj5YQXw9R0E
 
 <center><em>Can you buy real estate with your IRA? Find out here.</em></center>
 
-<br>Can you buy real estate with your IRA? The simple answer is yes, you can\! We are working with a couple of clients who are currently buying or selling real estate with their IRA, so today I wanted to share a simple plan that will show you how you, too, can buy and sell real estate with your IRA.
+<br>Can you buy real estate with your IRA? The simple answer is yes, you can\! We are working with a couple of clients who are currently buying or selling real estate with their IRA, so today I wanted to share a simple plan to show how you, too, can buy and sell real estate with your IRA.
 
-**First, find and investigate a custodian, the IRA company holding the assets**. Our team uses a company called Equity Trust, but there are many great providers out there.
+**First, find and investigate a custodian—the IRA company holding the assets**. Our team uses a company called Equity Trust, but there are many great providers out there.
 
 Next, set down your objectives. When you’re buying a property in an IRA, you can either go all cash or up to 50% of the loan value. That means if you have $150,000, you could control $300,000 in assets.
 
