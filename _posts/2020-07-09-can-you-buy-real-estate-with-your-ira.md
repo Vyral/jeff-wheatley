@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Can you buy real estate with your IRA? Find out here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Can+You+Buy+Real+Estate+With+Your+IRA_.mp4
 pullquote: 'Yes, you can buy real estate with your IRA!'
 enclosure_type: video/mp4
 enclosure_time:
