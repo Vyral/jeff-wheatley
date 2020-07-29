@@ -29,4 +29,4 @@ The most important indicator I look at is the absorption rate, which is simply a
 
 That being said, buyers are still benefiting in our market thanks to those great long-term interest rates, so it’s the perfect time to act no matter what your real estate goals are.
 
-If you have further questions about the condition of our market, or want to discuss how to best move forward given your personal scenario, please reach out via phone or email. I look forward to hearing from you\!
+If you have further questions about the condition of our market, or want to discuss how to best move forward given your scenario, please reach out via phone or email. I look forward to hearing from you\!
