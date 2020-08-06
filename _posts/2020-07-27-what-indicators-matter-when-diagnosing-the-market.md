@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here are three factors agents use to make sense of the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/What+Indicators+Matter+When+Diagnosing+the+Market_.mp4
 pullquote: It’s the perfect time to act no matter what your real estate goals are.
 enclosure_type: video/mp4
 enclosure_time:
