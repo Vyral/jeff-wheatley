@@ -11,7 +11,7 @@ pullquote: The middle of the market has plenty of opportunities for investors.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/08-04-wheatley-youtube.jpg
+youtube_alternate_image: /uploads/08-04-wheatley-youtube-1.jpg
 youtube_code: QoTfW9S_l9c
 ---
 
