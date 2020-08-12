@@ -27,6 +27,6 @@ We’re advising our sellers to prepare to put their properties on the market no
 
 We’re giving the same advice to buyers. Now is the time to take advantage of the low interest rates while they’re here (below 3%) as inventory starts to increase. Most buyers we are working with are seeing two to three homes hit the market each day that fit their criteria.
 
-**If you’re an investor, there are also opportunities for you in this marketplace**. The market is absorbing pristine, move-in ready properties, but if you’re willing to put in some of the work yourself, you can get a great deal on some homes that need a bit of work. The middle of the market is being punished a bit, which is an opportunity for investors.
+**If you’re an investor, there are also opportunities for you in this marketplace**. The market is absorbing pristine, move-in ready properties, but if you’re willing to put in some of the work yourself, you can get a great deal on some homes that need a bit of improvements. The middle of the market is being punished a bit, which makes it a great segment for you to take advantage of.
 
-In summary, there are great opportunities for buyers, sellers, and investors in our marketplace right now. If you have any questions for me about your personal situation or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+In summary, there are great opportunities for buyers, sellers, and investors in our marketplace right now. If you have any questions for me about your situation or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
