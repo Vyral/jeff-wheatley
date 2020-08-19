@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Here’s why buyers, sellers, and investors should be in the market now.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/What+Will+a+Second+Wave+of+COVID+Do+to+the+Market_.mp4
 pullquote: The middle of the market has plenty of opportunities for investors.
 enclosure_type: video/mp4
 enclosure_time:
