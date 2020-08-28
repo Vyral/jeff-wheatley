@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/08-18-wheatley-youtube-1.jpg
-youtube_code: ngNoOGtx-Vo
+youtube_code: lYFsNLauWTI
 ---
 
 {% include youtube.html %}
