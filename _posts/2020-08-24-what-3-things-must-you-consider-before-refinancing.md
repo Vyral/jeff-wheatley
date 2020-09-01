@@ -5,7 +5,8 @@ date: 2020-08-24 00:00:00
 tags:
   - Real Estate
 excerpt: These questions must be answered before you refinance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/What+3+Things+MUST+You+Consider+Before+Refinancing_.mp4
 pullquote: Every situation and scenario is different.
 enclosure_type: video/mp4
 enclosure_time:
