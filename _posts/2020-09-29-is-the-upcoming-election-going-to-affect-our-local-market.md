@@ -22,7 +22,7 @@ youtube_code: Rw9HCbYZsnc
 
 **1\. Inventory**. The great news is that we currently have the lowest inventory that we’ve had in the past decade. As a home seller, that means you have a lot less competition going into the uncertainty of the election period.
 
-**2\. Demand**. The great news is that demand in our market is increasing, both from those who are working from home and needing a bigger house and those wanting to get out of the urban market to the more suburban market of D.C. People are no longer content with condos.
+**2\. Demand**. Thankfully, demand in our market is increasing both from those who are working from home and needing a bigger house and those wanting to get out of the urban market to the more suburban market of D.C. People are no longer content with condos.
 
 **3\. Interest rates**. What’s going on with rates right now? They’re super low. We just had someone close at 2.5% this week. We anticipate them remaining low through the election and potentially after that. This creates good affordability for the buyers who are coming into our suburban Maryland marketplace.
 
