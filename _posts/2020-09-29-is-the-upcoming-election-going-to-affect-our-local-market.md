@@ -5,7 +5,8 @@ date: 2020-09-29 00:00:00
 tags:
   - Real Estate
 excerpt: Here are the three most important factors for our market this election season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Is+the+Upcoming+Election+Going+to+Affect+Our+Local+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
