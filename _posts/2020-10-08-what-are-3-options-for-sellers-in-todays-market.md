@@ -19,7 +19,7 @@ youtube_code: ThKMpuBGUh0
 
 <center><em>Here are three popular options for homeowners who want to sell.</em></center>
 
-<br>Have you ever noticed that most real estate agents assume they know what you want and try to fit you into one specific box? The reality is that there are a number of available options for home sellers in his marketplace. Here are three of them:
+<br>Have you ever noticed that most real estate agents assume they know what you want and try to fit you into one specific box? The reality is that there are a number of available options for home sellers in this marketplace. Here are three of them:
 
 **1\. A quick cash closing**. This allows you to pick the exact closing date and perhaps even stay past that a little bit to find your new home.
 
