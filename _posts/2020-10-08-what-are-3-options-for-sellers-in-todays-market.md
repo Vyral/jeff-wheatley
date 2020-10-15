@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here are three popular options for homeowners who want to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/What+Are+3+Options+for+Sellers+in+Todays+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
