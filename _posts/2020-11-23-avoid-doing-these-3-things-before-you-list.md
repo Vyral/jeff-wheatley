@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   To receive top dollar for your home, make sure to avoid these mistakes before
   listing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2020/Avoid+Doing+These+3+Things+Before+You+List.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
