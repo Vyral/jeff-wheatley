@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'If you’re thinking of selling, don’t believe these common misconceptions.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/Sellers_+Don%E2%80%99t+Buy+Into+These+4+Misconceptions.mp4
 pullquote: >-
   Discount brokers tend to bring discount offers with lots of contingencies and
   consternations.
