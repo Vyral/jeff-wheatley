@@ -5,7 +5,7 @@ date: 2021-02-25 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'If your home doesn’t appraise, here are your three options.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/3+Steps+Sellers+Can+Take+if+Their+Home+Doesn%E2%80%99t+Appraise.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
