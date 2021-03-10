@@ -26,4 +26,4 @@ youtube_code: uZAknmfKO3E
 
 **3\. Negotiate with the buyer’s agent**. Have a conversation about how both parties can keep the transaction together and create a win-win scenario. The great news is that in this market, where demand is increasing, most buyers (if they have the capacity) will at least partially cover the gap between the appraisal and sales price.
 
-Using these three steps, most of the time we’re able to bring buyers and sellers together for a great transaction. If you have an appraisal issue you’d like help with or have questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you.&nbsp;
+Using these three steps, most of the time we’re able to bring buyers and sellers together for a great transaction. If you have an appraisal issue you’d like help with or have questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you.
