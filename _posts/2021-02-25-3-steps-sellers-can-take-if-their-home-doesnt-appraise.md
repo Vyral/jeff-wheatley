@@ -5,7 +5,8 @@ date: 2021-02-25 00:00:00
 tags:
   - Home Seller Tips
 excerpt: 'If your home doesn’t appraise, here are your three options.'
-enclosure: https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/3+Steps+Sellers+Can+Take+if+Their+Home+Doesn%E2%80%99t+Appraise.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/3+Steps+Sellers+Can+Take+if+Their+Home+Doesn%E2%80%99t+Appraise.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -13,7 +14,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/02-24-wheatley-youtube.jpg
 youtube_code: uZAknmfKO3E
 ---
-
 {% include youtube.html %}
 
 <center style="font-size: 18px;"><em>If your home doesn&rsquo;t appraise, here are your three options.</em></center>
@@ -26,4 +26,4 @@ youtube_code: uZAknmfKO3E
 
 **3\. Negotiate with the buyer’s agent**. Have a conversation about how both parties can keep the transaction together and create a win-win scenario. The great news is that in this market, where demand is increasing, most buyers (if they have the capacity) will at least partially cover the gap between the appraisal and sales price.
 
-Using these three steps, most of the time we’re able to bring buyers and sellers together for a great transaction. If you have an appraisal issue you’d like help with or have questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you.
+Using these three steps, most of the time we’re able to bring buyers and sellers together for a great transaction. If you have an appraisal issue you’d like help with or have questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you.&nbsp;
