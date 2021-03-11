@@ -29,6 +29,6 @@ youtube_code: nEZTC5eLW0s
 
 **4\. Prepare yourself and your tenant**. The person who buys your property will also purchase that cash flow. We want to provide them with good financials that show you have a decent, quality tenant in the property.
 
-**5\. Understand the tax implication**. If you’d lived in the property for two of the last five years, you could potentially sell tax free. If you haven’t resided in it, do you want to roll the tax expenses into another property via a 1031 exchange? It’s a great way to increase your portfolio while deferring taxes. It might make sense to pay those capital gains taxes while rates are still low.
+**5\. Understand the tax implication**. If you’d lived in the property for two of the last five years, you could potentially sell tax-free. If you haven’t resided in it, do you want to roll the tax expenses into another property via a 1031 exchange? It’s a great way to increase your portfolio while deferring taxes. It might make sense to pay those capital gains taxes while rates are still low.
 
 If you have questions for me about this topic or anything about real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
