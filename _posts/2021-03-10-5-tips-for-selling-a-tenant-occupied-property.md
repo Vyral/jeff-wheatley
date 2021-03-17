@@ -5,7 +5,8 @@ date: 2021-03-10 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Considerations for property owners deciding to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/5_Tips_for_Selling_a_Tenant-Occupied_Property.mp4
 pullquote: 'If an investor buys your property, they’re also buying your cash flow.'
 enclosure_type: video/mp4
 enclosure_time:
