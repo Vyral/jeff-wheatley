@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/03-24-wheatley-youtube.jpg
-youtube_code: bYH26ESLTcM
+youtube_code: kuj2eyjRuvI
 ---
 {% include youtube.html %}
 
