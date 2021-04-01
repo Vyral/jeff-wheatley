@@ -5,7 +5,8 @@ date: 2021-03-25 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are five types of flawed properties that should be listed now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/Owners+of+Flawed+Properties+Should+Sell+Now.mp4
 pullquote: >-
   If your home has a few quirky features reminiscent of a fad from a bygone
   decade, now’s the time to sell.
