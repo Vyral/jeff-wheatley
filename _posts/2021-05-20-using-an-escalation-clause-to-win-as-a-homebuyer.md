@@ -5,7 +5,8 @@ date: 2021-05-20 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: An escalation clause can help a homebuyer win in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/Using+an+Escalation+Clause+to+Win+as+a+Homebuyer.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
