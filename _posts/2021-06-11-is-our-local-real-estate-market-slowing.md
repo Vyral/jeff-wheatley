@@ -5,7 +5,8 @@ date: 2021-06-11 00:00:00
 tags:
   - Market Update
 excerpt: Our market is still as hot as ever, despite a recent lull.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/Is+Our+Local+Real+Estate+Market+Slowing_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
