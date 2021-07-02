@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/06-26-wheatley-youtube-1.jpg
+youtube_alternate_image: /uploads/06-26-wheatley-youtube.jpeg
 youtube_code: EajmlYwV4z4
 ---
 {% include youtube.html %}
