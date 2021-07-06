@@ -5,7 +5,8 @@ date: 2021-06-28 00:00:00
 tags:
   - Home Seller Tips
 excerpt: These tips will help you earn top dollar when selling your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/3+Strategies+to+Make+Top+Dollar+on+Your+Home+Sale.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
