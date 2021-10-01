@@ -5,7 +5,8 @@ date: 2021-09-21 00:00:00
 tags:
   - Market Update
 excerpt: Three key stats that demonstrate what’s happening in the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2021/3+Vital+Statistics+From+Montgomery+County.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
