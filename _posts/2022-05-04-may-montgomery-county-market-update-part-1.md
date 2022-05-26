@@ -28,7 +28,7 @@ Real estate is a supply and demand game, and today we’re focusing on the suppl
 
 1:01 — What our builders are experiencing right now in terms of supply
 
-2:25 — How permitting issues and supply chain issues are affecting the home-building process
+2:25 — How permit issues and supply chain issues are affecting the home-building process
 
 3:30 — Why we need to build 5.5 million more homes to meet the demand
 
@@ -40,6 +40,6 @@ Real estate is a supply and demand game, and today we’re focusing on the suppl
 
 6:59 — Wrapping things up
 
-Stay tuned for the aforementioned part two, where I’ll focus on where the demand is coming from in our market. In the meantime, **here’s&nbsp;**[**the article**](https://www.wsj.com/articles/u-s-housing-market-needs-5-5-million-more-units-says-new-report-11623835800) **I mentioned** from Wall Street Journal about our new housing supply being 5.5 million units short.
+Stay tuned for the aforementioned part two, where I’ll focus on where the demand is coming from in our market. In the meantime, [**here’s&nbsp;**](__notset__)[**the article**](https://www.wsj.com/articles/u-s-housing-market-needs-5-5-million-more-units-says-new-report-11623835800)[**I mentioned**](__notset__) from Wall Street Journal about our new housing supply being 5.5 million units short.
 
 If you have any questions for me, don’t hesitate to reach out via phone or email today. I would love to hear from you.
