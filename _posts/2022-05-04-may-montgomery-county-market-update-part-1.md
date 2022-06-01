@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Montgomery County Home Supply Update
+title: Builder Delays Causing Home Supply Shortage
 date: 2022-05-04 10:45:00
 tags:
   - Market Update
@@ -18,9 +18,9 @@ youtube_code: O8O7-ZR6p1w
 
 {% include excerpt.html %}
 
-Are we heading for a correction in the Montgomery County real estate market? I’m going to begin to answer that question today in part one of my May market update.&nbsp;
+Are we headed for a correction in the Montgomery County real estate market? I’m going to begin to answer that question today in part one of my May market update by looking at the supply of homes in our area and where that supply is coming from.&nbsp;
 
-Real estate is a supply and demand game, and today we’re focusing on the supply side to discover where our market is headed in terms of prices. Next time, we’ll focus on demand, and after that, we’ll bring them both together.
+Real estate is all about supply and demand. Today we’re focusing on the supply side to discover where our market is headed in terms of prices, inventory, and more. Next time, we’ll focus on demand, and after that, we’ll bring them both together. Let’s begin our examination of Montgomery County real estate by looking deeper into our home supply.
 
 **Feel free to watch the full interview or use these timestamps to browse specific topics at your leisure:**
 
