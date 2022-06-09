@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Builder Delays Causing Home Supply Shortage
+title: ' Is the Montgomery County Real Estate Market Cooling Off?'
 date: 2022-05-04 10:45:00
 tags:
   - Market Update
@@ -18,7 +18,7 @@ youtube_code: O8O7-ZR6p1w
 
 {% include excerpt.html %}
 
-Are we headed for a correction in the Montgomery County real estate market? I’m going to begin to answer that question today in part one of my May market update by looking at the supply of homes in our area and where that supply is coming from.&nbsp;
+Are we headed for a correction in the Montgomery County real estate market? I’m going to begin to answer that question today in part one of my May market update by looking at the supply of homes in our area and where that supply is coming from.
 
 Real estate is all about supply and demand. Today we’re focusing on the supply side to discover where our market is headed in terms of prices, inventory, and more. Next time, we’ll focus on demand, and after that, we’ll bring them both together. Let’s begin our examination of Montgomery County real estate by looking deeper into our home supply.
 
@@ -40,6 +40,6 @@ Real estate is all about supply and demand. Today we’re focusing on the supply
 
 6:59 — Wrapping things up
 
-Stay tuned for the aforementioned part two, where I’ll focus on where the demand is coming from in our market. In the meantime,&nbsp; [**here’s&nbsp;**](__notset__)[**the article**](https://www.wsj.com/articles/u-s-housing-market-needs-5-5-million-more-units-says-new-report-11623835800)&nbsp;[**I mentioned**](__notset__) from The Wall Street Journal about our new housing supply being 5.5 million units short.
+Stay tuned for the aforementioned part two, where I’ll focus on where the demand is coming from in our market. In the meantime, [**here’s **](__notset__)[**the article**](https://www.wsj.com/articles/u-s-housing-market-needs-5-5-million-more-units-says-new-report-11623835800) [**I mentioned**](__notset__) from The Wall Street Journal about our new housing supply being 5.5 million units short.
 
 If you have any questions for me, don’t hesitate to reach out via phone or email today. I would love to hear from you.
