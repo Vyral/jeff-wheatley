@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Here’s the story of our home supply right now in Montgomery County.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Wheatley/Videos/2022/Is+the+Montgomery+County+Real+Estate+Market+Cooling+Off_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -40,6 +41,6 @@ Real estate is all about supply and demand. Today we’re focusing on the supply
 
 6:59 — Wrapping things up
 
-Stay tuned for the aforementioned part two, where I’ll focus on where the demand is coming from in our market. In the meantime, [**here’s **](__notset__)[**the article**](https://www.wsj.com/articles/u-s-housing-market-needs-5-5-million-more-units-says-new-report-11623835800) [**I mentioned**](__notset__) from The Wall Street Journal about our new housing supply being 5.5 million units short.
+Stay tuned for the aforementioned part two, where I’ll focus on where the demand is coming from in our market. In the meantime, [**here’s \*\*\](\_\_notset\_\_)\[**the article**\](https://www.wsj.com/articles/u-s-housing-market-needs-5-5-million-more-units-says-new-report-11623835800) \[**I mentioned\*\*](__notset__) from The Wall Street Journal about our new housing supply being 5.5 million units short.
 
 If you have any questions for me, don’t hesitate to reach out via phone or email today. I would love to hear from you.
