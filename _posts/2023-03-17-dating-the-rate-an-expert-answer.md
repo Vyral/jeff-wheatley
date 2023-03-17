@@ -15,7 +15,7 @@ youtube_code: tU8Go6CFqq8
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
+{% include excerpt.html %}&nbsp;
 
 You’ve seen the quote all over the place: “Marry the home, but date the rate.” The idea is that you would buy now and wait until interest rates drop to refinance. Is this really the best advice? Today, we’ll be answering that question.
 
