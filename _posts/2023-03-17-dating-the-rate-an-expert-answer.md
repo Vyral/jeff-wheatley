@@ -17,7 +17,7 @@ youtube_code: tU8Go6CFqq8
 
 {% include excerpt.html %}&nbsp;
 
-You’ve seen the quote all over the place: “Marry the home, but date the rate.” The idea is that you would buy now and wait until interest rates drop to refinance. Is this really the best advice? Today, we’ll be answering that question.
+You’ve seen the quote all over the place: “Marry the home, but date the rate.” The idea is that you would buy now and wait until interest rates drop to refinance. Is this really the best advice? Today, we’ll be answering that question.&nbsp;
 
 The honest answer is that it depends on your situation and the market. If you’ve found a house you love and can afford the mortgage, even if you can’t refinance, you should pull the trigger. However, if you’re counting on refinancing in the next couple of years, there are risks and downsides that you may want to consider first.
 
