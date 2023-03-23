@@ -41,16 +41,16 @@ client:
   phone2: (240) 403-0400
   phone2_type: Office
   email: Jeff@JeffWheatleyHomes.com
-  url: 'http://www.JeffWheatleyHomes.com'
+  url: 'www.jeffwheatleyhomes.com'
 CTAs:
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.jeffwheatleyhomes.com/listings-search/#/2033763787'
+  second_CTA_URL: 'https://jeffwheatley.realscout.com/agent/website'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a DC Metro Home?
     CTA_text2: Search the entire MLS for your DC Metro home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://www.jeffwheatleyhomes.com/listings-search/#/2033763787'
+    CTA_url2: 'https://jeffwheatley.realscout.com/agent/website'
 lender:
   show_section: false
   header_text: Preferred Lender
