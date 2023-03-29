@@ -10,7 +10,7 @@ pullquote: Is this really the best advice?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/03-17-wheatley-youtube.jpg
+youtube_alternate_image: /uploads/03-17-wheatley-youtube-1.jpg
 youtube_code: tU8Go6CFqq8
 ---
 {% include youtube.html %}
